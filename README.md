@@ -1,5 +1,5 @@
 # EDA-on-IMDB-Dataset
-Importing IMDB as an SQL Database and analyzing it with SQLite, Pandas and numpy. 
+Importing IMDB data as an SQL Database and analyzing it with SQLite, Pandas and numpy. 
 
 * The following trends were analysed in the database: 
 1. Tables Overview
